@@ -3781,6 +3781,16 @@
 		)
 		(uuid "887b0dc2-3715-4265-afed-94871b07ee4b")
 	)
+	(text "Vic"
+		(exclude_from_sim no)
+		(at 238.252 145.034 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9f69ecb1-3c56-4e17-ab0f-c47a07266b56")
+	)
 	(text "Microcontroller"
 		(exclude_from_sim no)
 		(at 21.59 104.648 0)

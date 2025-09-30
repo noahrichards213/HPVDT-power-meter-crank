@@ -3708,6 +3708,16 @@
 		)
 		(uuid "1b2a8050-5474-4dab-9e50-753ac81d8142")
 	)
+	(text "Noah"
+		(exclude_from_sim no)
+		(at 240.03 133.858 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1e78d9ce-7bb6-4468-8830-49f4c9442668")
+	)
 	(text "Strain Gauge Amplifier"
 		(exclude_from_sim no)
 		(at 81.788 104.648 0)

@@ -3864,6 +3864,16 @@
 		)
 		(uuid "dec08c3c-bc1f-4244-89b7-dace19c4f18b")
 	)
+	(text "Francis"
+		(exclude_from_sim no)
+		(at 250.698 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "edab3406-06e6-406d-9045-b21f329c3649")
+	)
 	(junction
 		(at 241.3 35.56)
 		(diameter 0)

@@ -3697,6 +3697,16 @@
 		)
 		(uuid 14542b17-db09-4aaf-8f4d-6edb3659566e)
 	)
+	(text "William\n"
+		(exclude_from_sim no)
+		(at 258.826 144.526 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0faf841a-8dca-4ed0-9c8f-03341d69f25a")
+	)
 	(text "Strain Gauge Header"
 		(exclude_from_sim no)
 		(at 81.788 38.608 0)

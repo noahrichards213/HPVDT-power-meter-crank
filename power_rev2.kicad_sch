@@ -3843,6 +3843,16 @@
 		)
 		(uuid "c91b9feb-3faa-4ae0-be28-0500c49671ae")
 	)
+	(text "Eason"
+		(exclude_from_sim no)
+		(at 256.286 132.842 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c9ff1e4d-d22b-4bd3-9966-7b60a3eed9eb")
+	)
 	(text "Gyroscope"
 		(exclude_from_sim no)
 		(at 157.48 104.648 0)

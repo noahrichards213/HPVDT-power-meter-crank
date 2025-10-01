@@ -3717,6 +3717,16 @@
 		)
 		(uuid "0faf841a-8dca-4ed0-9c8f-03341d69f25a")
 	)
+	(text "shawn"
+		(exclude_from_sim no)
+		(at 230.632 154.686 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "128fb37b-e496-436a-889f-765f626e2587")
+	)
 	(text "Strain Gauge Header"
 		(exclude_from_sim no)
 		(at 81.788 38.608 0)

@@ -3697,6 +3697,26 @@
 		)
 		(uuid 14542b17-db09-4aaf-8f4d-6edb3659566e)
 	)
+	(text "Maggie"
+		(exclude_from_sim no)
+		(at 247.904 126.746 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0c5a71b4-fbc4-47dc-8677-dbe278307cbd")
+	)
+	(text "William\n"
+		(exclude_from_sim no)
+		(at 258.826 144.526 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0faf841a-8dca-4ed0-9c8f-03341d69f25a")
+	)
 	(text "Strain Gauge Header"
 		(exclude_from_sim no)
 		(at 81.788 38.608 0)
@@ -3771,6 +3791,16 @@
 		)
 		(uuid "887b0dc2-3715-4265-afed-94871b07ee4b")
 	)
+	(text "Vic"
+		(exclude_from_sim no)
+		(at 238.252 145.034 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9f69ecb1-3c56-4e17-ab0f-c47a07266b56")
+	)
 	(text "Microcontroller"
 		(exclude_from_sim no)
 		(at 21.59 104.648 0)
@@ -3823,6 +3853,26 @@
 		)
 		(uuid "c91b9feb-3faa-4ae0-be28-0500c49671ae")
 	)
+	(text "Eason"
+		(exclude_from_sim no)
+		(at 256.286 132.842 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c9ff1e4d-d22b-4bd3-9966-7b60a3eed9eb")
+	)
+	(text "henry"
+		(exclude_from_sim no)
+		(at 242.062 122.682 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "caaa6d44-bd6b-4a8e-a03b-7593cf2a9f78")
+	)
 	(text "Gyroscope"
 		(exclude_from_sim no)
 		(at 157.48 104.648 0)
@@ -3843,6 +3893,16 @@
 			)
 		)
 		(uuid "dec08c3c-bc1f-4244-89b7-dace19c4f18b")
+	)
+	(text "Francis"
+		(exclude_from_sim no)
+		(at 250.698 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "edab3406-06e6-406d-9045-b21f329c3649")
 	)
 	(junction
 		(at 241.3 35.56)

@@ -3697,6 +3697,16 @@
 		)
 		(uuid 14542b17-db09-4aaf-8f4d-6edb3659566e)
 	)
+	(text "Maggie"
+		(exclude_from_sim no)
+		(at 247.904 126.746 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0c5a71b4-fbc4-47dc-8677-dbe278307cbd")
+	)
 	(text "William\n"
 		(exclude_from_sim no)
 		(at 258.826 144.526 0)

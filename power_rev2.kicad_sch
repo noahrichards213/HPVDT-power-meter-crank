@@ -3863,6 +3863,16 @@
 		)
 		(uuid "c9ff1e4d-d22b-4bd3-9966-7b60a3eed9eb")
 	)
+	(text "henry"
+		(exclude_from_sim no)
+		(at 242.062 122.682 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "caaa6d44-bd6b-4a8e-a03b-7593cf2a9f78")
+	)
 	(text "Gyroscope"
 		(exclude_from_sim no)
 		(at 157.48 104.648 0)

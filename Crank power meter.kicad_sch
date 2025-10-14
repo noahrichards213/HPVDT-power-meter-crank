@@ -5498,6 +5498,28 @@
 		)
 		(uuid "ed125cab-0450-4d6e-8908-3c119356d264")
 	)
+	(global_label "INT Gyro"
+		(shape input)
+		(at 72.39 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4b3f1bc-46fb-4f96-a7ff-9e414bf5b2df")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 83.4185 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Device:LED")
 		(at 68.58 118.11 180)

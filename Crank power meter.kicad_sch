@@ -4144,16 +4144,6 @@
 		)
 		(uuid "e848fc8d-0b2c-41ef-bb31-fe04469b2b21")
 	)
-	(text "find sclk\n"
-		(exclude_from_sim no)
-		(at 75.184 73.152 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "facfeb87-844a-4fca-a709-469392ede8cb")
-	)
 	(junction
 		(at 205.74 55.88)
 		(diameter 0)
@@ -4305,10 +4295,6 @@
 	(no_connect
 		(at 35.56 67.31)
 		(uuid "24e8ea85-a8ee-4ce4-88de-b15c99eadb76")
-	)
-	(no_connect
-		(at 35.56 62.23)
-		(uuid "3a37a2c7-44f3-4a19-9eb9-b460d843fb90")
 	)
 	(no_connect
 		(at 66.04 44.45)
@@ -5418,6 +5404,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 62.23) (xy 35.56 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa132a4b-c250-41b2-9b59-d2c843f3fdcd")
+	)
+	(wire
+		(pts
 			(xy 210.82 46.99) (xy 215.9 46.99)
 		)
 		(stroke
@@ -5475,6 +5471,16 @@
 			(justify left bottom)
 		)
 		(uuid "1c05ea43-1c74-480d-80ee-228b22ec3c0f")
+	)
+	(label "SCLK"
+		(at 100.33 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "28c28509-966c-42d4-a4b5-ce745fe6de91")
 	)
 	(label ""
 		(at 74.93 53.34 0)
@@ -5556,6 +5562,16 @@
 		)
 		(uuid "7cdf1942-9bc9-4a21-a485-2c73f68841d4")
 	)
+	(label "SCLK"
+		(at 29.21 62.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8b4602e3-8f4e-46ef-8bde-e2c2e449c1b3")
+	)
 	(label "HX711 DOUT"
 		(at 255.27 58.42 0)
 		(effects
@@ -5575,16 +5591,6 @@
 			(justify left bottom)
 		)
 		(uuid "a9b0a306-9125-4f80-bcad-a0e47a562f3f")
-	)
-	(label "SCLK"
-		(at 100.33 80.01 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "abe978ac-670f-4696-a1e8-bc773e0056c6")
 	)
 	(label "HX711 PDSCK"
 		(at 255.27 60.96 0)
